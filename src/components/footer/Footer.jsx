@@ -1,8 +1,8 @@
 import React from "react";
 import "./footer.css";
 
-import GooglePlay from "../../assets/GooglePlay.png";
-import AppStore from "../../assets/AppStore.png";
+import GooglePlay from "../../assets/googlePlay.png";
+import AppStore from "../../assets/appStore.png";
 
 export default function Footer() {
   return (
