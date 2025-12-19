@@ -1,0 +1,756 @@
+{ "phones": [
+  {
+    "id": 1,
+    "name": "Samsung Galaxy M13",
+    "price": 100,
+    "oldPrice": 200,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=500&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff23?w=500&q=80",
+      "https://images.unsplash.com/photo-1592750475338-74b7b2191392?w=500&q=80"
+    ],
+    "shortDescription": "Smart Phone Galaxy M13 (4GB | 64GB)",
+    "description": [
+      "هاتف سامسونج Galaxy M13 بتصميم عصري وجودة تصنيع عالية.",
+      "يوفر أداء مستقر للاستخدام اليومي مع شاشة كبيرة وبطارية قوية."
+    ],
+    "features": [
+      "شاشة PLS LCD كبيرة",
+      "بطارية 5000mAh",
+      "دعم شريحتين اتصال",
+      "واجهة One UI سهلة الاستخدام",
+      "أداء مناسب للاستخدام اليومي"
+    ],
+    "specs": {
+      "screen": "6.6 بوصة PLS LCD",
+      "processor": "Exynos 850",
+      "ram": "4GB",
+      "storage": "64GB",
+      "mainCamera": "50MP + 5MP + 2MP",
+      "frontCamera": "8MP",
+      "battery": "5000mAh",
+      "os": "Android 12",
+      "connectivity": "4G LTE"
+    },
+    "rating": 4.2,
+    "reviewsCount": 45,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "color": "Blue"
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 14",
+    "price": 900,
+    "oldPrice": 1000,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=500&q=80",
+      "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500&q=80",
+      "https://images.unsplash.com/photo-1663499482523-1c0c167ec073?w=500&q=80"
+    ],
+    "shortDescription": "Apple iPhone 14 128GB - Blue",
+    "description": [
+      "آيفون 14 بتصميم أنيق وأداء فائق بفضل معالج A15 Bionic.",
+      "شاشة مذهلة وكاميرات احترافية لتجربة تصوير ممتازة."
+    ],
+    "features": [
+      "Super Retina XDR",
+      "معالج A15 Bionic",
+      "Face ID",
+      "كاميرات احترافية",
+      "دعم 5G"
+    ],
+    "specs": {
+      "screen": "6.1 بوصة Super Retina XDR",
+      "processor": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "mainCamera": "12MP + 12MP",
+      "frontCamera": "12MP",
+      "battery": "3279mAh",
+      "os": "iOS 16",
+      "connectivity": "5G"
+    },
+    "rating": 4.8,
+    "reviewsCount": 120,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "color": "White"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy A32",
+    "price": 180,
+    "oldPrice": 220,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610792516307-ea5acd9c3b00?w=500&q=80",
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80",
+      "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?w=500&q=80"
+    ],
+    "shortDescription": "Smart Phone Samsung A32 (4GB | 128GB)",
+    "description": [
+      "سامسونج A32 بشاشة Super AMOLED وأداء قوي.",
+      "مناسب للألعاب والاستخدام المكثف."
+    ],
+    "features": [
+      "Super AMOLED",
+      "بطارية قوية",
+      "أداء ثابت",
+      "دعم شريحتين",
+      "تصميم أنيق"
+    ],
+    "specs": {
+      "screen": "6.4 بوصة Super AMOLED",
+      "processor": "MediaTek Helio G80",
+      "ram": "4GB",
+      "storage": "128GB",
+      "mainCamera": "64MP + 8MP + 5MP + 5MP",
+      "frontCamera": "20MP",
+      "battery": "5000mAh",
+      "os": "Android 11",
+      "connectivity": "4G LTE"
+    },
+    "rating": 4.4,
+    "reviewsCount": 70,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "color": "Black"
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi Redmi 10",
+    "price": 150,
+    "oldPrice": 180,
+    "inStock": false,
+    "images": [
+      "https://images.unsplash.com/photo-1596558450268-9c27524ba856?w=500&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&q=80",
+      "https://images.unsplash.com/photo-1541345023926-55d6e0853f1b?w=500&q=80"
+    ],
+    "shortDescription": "Smart Phone Xiaomi Redmi 10 (6GB | 128GB)",
+    "description": [
+      "ريدمي 10 بأداء ممتاز مقابل السعر.",
+      "شاشة كبيرة وكاميرا قوية."
+    ],
+    "features": [
+      "شاشة 90Hz",
+      "كاميرا 50MP",
+      "بطارية قوية",
+      "أداء ممتاز مقابل السعر"
+    ],
+    "specs": {
+      "screen": "6.5 بوصة IPS LCD",
+      "processor": "MediaTek Helio G88",
+      "ram": "6GB",
+      "storage": "128GB",
+      "mainCamera": "50MP + 8MP + 2MP + 2MP",
+      "frontCamera": "8MP",
+      "battery": "5000mAh",
+      "os": "Android 11",
+      "connectivity": "4G LTE"
+    },
+    "rating": 4.3,
+    "reviewsCount": 60,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "color": "Red"
+  },
+  {
+    "id": 5,
+    "name": "iPhone 15 Pro Max",
+    "price": 1200,
+    "oldPrice": 1500,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&q=80",
+      "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500&q=80",
+      "https://images.unsplash.com/photo-1695048132959-1e3523363292?w=500&q=80"
+    ],
+    "shortDescription": "Apple iPhone 15 Pro Max 256GB - Titanium",
+    "description": [
+      "أقوى آيفون بتصميم التيتانيوم الجديد ومعالج A17 Pro.",
+      "أفضل نظام كاميرات في هاتف ذكي وزر الإجراءات الجديد."
+    ],
+    "features": [
+      "إطار تيتانيوم",
+      "معالج A17 Pro",
+      "منفذ USB-C",
+      "زر الإجراءات",
+      "Dynamic Island"
+    ],
+    "specs": {
+      "screen": "6.7 بوصة Super Retina XDR",
+      "processor": "Apple A17 Pro",
+      "ram": "8GB",
+      "storage": "256GB",
+      "mainCamera": "48MP + 12MP + 12MP",
+      "frontCamera": "12MP",
+      "battery": "4422mAh",
+      "os": "iOS 17",
+      "connectivity": "5G"
+    },
+    "rating": 4.9,
+    "reviewsCount": 150,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "color": "Silver"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": 1050,
+    "oldPrice": 1300,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=500&q=80",
+      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500&q=80",
+      "https://images.unsplash.com/photo-1673847432845-a4b525890250?w=500&q=80"
+    ],
+    "shortDescription": "Samsung Galaxy S23 Ultra 256GB",
+    "description": [
+      "عملاق سامسونج مع قلم S-Pen وكاميرا 200 ميجابكسل.",
+      "شاشة مذهلة وأداء لا يضاهى للألعاب والإنتاجية."
+    ],
+    "features": [
+      "كاميرا 200MP",
+      "قلم S-Pen مدمج",
+      "زوم بصري 10x",
+      "معالج Snapdragon 8 Gen 2",
+      "شاشة Dynamic AMOLED 2X"
+    ],
+    "specs": {
+      "screen": "6.8 بوصة Dynamic AMOLED",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "mainCamera": "200MP + 10MP + 10MP + 12MP",
+      "frontCamera": "12MP",
+      "battery": "5000mAh",
+      "os": "Android 13",
+      "connectivity": "5G"
+    },
+    "rating": 4.9,
+    "reviewsCount": 200,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "color": "Black"
+  },
+  {
+    "id": 7,
+    "name": "Google Pixel 8 Pro",
+    "price": 850,
+    "oldPrice": 999,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1696426319110-449e62f0f46d?w=500&q=80"
+    ],
+    "shortDescription": "Google Pixel 8 Pro 128GB - Obsidian",
+    "description": [
+      "أذكى هاتف بكسل حتى الآن مع تقنيات الذكاء الاصطناعي المتطورة.",
+      "تجربة أندرويد الخام مع أفضل كاميرا لتصوير الوجوه والمناظر الطبيعية."
+    ],
+    "features": [
+      "معالج Google Tensor G3",
+      "شاشة LTPO OLED",
+      "تحديثات نظام لمدة 7 سنوات",
+      "ميزات ذكاء اصطناعي حصرية"
+    ],
+    "specs": {
+      "screen": "6.7 بوصة Super Actua Display",
+      "processor": "Google Tensor G3",
+      "ram": "12GB",
+      "storage": "128GB",
+      "mainCamera": "50MP + 48MP + 48MP",
+      "frontCamera": "10.5MP",
+      "battery": "5050mAh",
+      "os": "Android 14",
+      "connectivity": "5G"
+    },
+    "rating": 4.7,
+    "reviewsCount": 85,
+    "category": "Smartphones",
+    "brand": "Google",
+    "color": "Black"
+  },
+  {
+    "id": 8,
+    "name": "OnePlus 11",
+    "price": 650,
+    "oldPrice": 750,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1679083216051-aa510a1a2c0e?w=500&q=80"
+    ],
+    "shortDescription": "OnePlus 11 5G (16GB | 256GB)",
+    "description": [
+      "هاتف رائد يجمع بين السرعة الفائقة والشحن السريع جداً.",
+      "تعاون مميز مع Hasselblad لتطوير جودة الألوان في الكاميرا."
+    ],
+    "features": [
+      "شحن بقوة 100W",
+      "كاميرا Hasselblad",
+      "أداء فائق السرعة",
+      "تصميم خلفي فريد"
+    ],
+    "specs": {
+      "screen": "6.7 بوصة AMOLED 120Hz",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "256GB",
+      "mainCamera": "50MP + 32MP + 48MP",
+      "frontCamera": "16MP",
+      "battery": "5000mAh",
+      "os": "OxygenOS 13",
+      "connectivity": "5G"
+    },
+    "rating": 4.6,
+    "reviewsCount": 92,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "color": "Green"
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 1600,
+    "oldPrice": 1800,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&q=80"
+    ],
+    "shortDescription": "Samsung Galaxy Z Fold 5 512GB",
+    "description": [
+      "جهاز يجمع بين الهاتف والتابلت في تصميم واحد قابل للطي.",
+      "مثالي للمهام المتعددة والإنتاجية العالية."
+    ],
+    "features": [
+      "شاشة كبيرة قابلة للطي",
+      "دعم قلم S-Pen",
+      "مفصل جديد بدون فجوات",
+      "أداء مكتبي متكامل"
+    ],
+    "specs": {
+      "screen": "7.6 بوصة (الداخلية) AMOLED",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "512GB",
+      "mainCamera": "50MP + 10MP + 12MP",
+      "frontCamera": "4MP (تحت الشاشة) + 10MP",
+      "battery": "4400mAh",
+      "os": "Android 13",
+      "connectivity": "5G"
+    },
+    "rating": 4.8,
+    "reviewsCount": 55,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "color": "Blue"
+  },
+  {
+    "id": 10,
+    "name": "Nothing Phone (2)",
+    "price": 599,
+    "oldPrice": 699,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1688554271189-9828d154433d?w=500&q=80"
+    ],
+    "shortDescription": "Nothing Phone (2) 256GB - Dark Grey",
+    "description": [
+      "تصميم شفاف فريد مع واجهة Glyph الضوئية.",
+      "تجربة نظام Nothing OS البسيطة والأنيقة."
+    ],
+    "features": [
+      "واجهة Glyph التفاعلية",
+      "تصميم شفاف مميز",
+      "نظام تشغيل نظيف",
+      "كاميرات مزدوجة بدقة 50MP"
+    ],
+    "specs": {
+      "screen": "6.7 بوصة LTPO OLED",
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "12GB",
+      "storage": "256GB",
+      "mainCamera": "50MP + 50MP",
+      "frontCamera": "32MP",
+      "battery": "4700mAh",
+      "os": "Nothing OS 2.0",
+      "connectivity": "5G"
+    },
+    "rating": 4.5,
+    "reviewsCount": 110,
+    "category": "Smartphones",
+    "brand": "Nothing",
+    "color": "Grey"
+  }
+],
+  "tablets": [
+    {
+    "id": 11,
+    "name": "iPad Pro 12.9 M2",
+    "price": 1100,
+    "oldPrice": 1200,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&q=80"
+    ],
+    "shortDescription": "Apple iPad Pro 12.9-inch (M2 Chip, 128GB)",
+    "description": [
+      "أقوى تابلت في العالم بمعالج M2 الخارق وشاشة Liquid Retina XDR.",
+      "أداة مثالية للمصممين والمحترفين."
+    ],
+    "features": [
+      "شاشة XDR Mini-LED",
+      "معالج Apple M2",
+      "دعم Apple Pencil (الجيل الثاني)",
+      "نظام صوتي رباعي"
+    ],
+    "specs": {
+      "screen": "12.9 بوصة Mini-LED",
+      "processor": "Apple M2",
+      "ram": "8GB",
+      "storage": "128GB",
+      "mainCamera": "12MP + 10MP",
+      "frontCamera": "12MP",
+      "battery": "10758mAh",
+      "os": "iPadOS 16",
+      "connectivity": "Wi-Fi 6E"
+    },
+    "rating": 4.9,
+    "reviewsCount": 300,
+    "category": "Tablets",
+    "brand": "Apple",
+    "color": "Space Grey"
+  },
+  {
+    "id": 12,
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "price": 1000,
+    "oldPrice": 1150,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&q=80"
+    ],
+    "shortDescription": "Samsung Galaxy Tab S9 Ultra 256GB",
+    "description": [
+      "شاشة ضخمة وتصميم نحيف جداً مع مقاومة الماء والغبار لأول مرة.",
+      "تجربة سينمائية وقلم S-Pen مرفق مجاناً."
+    ],
+    "features": [
+      "شاشة Dynamic AMOLED 2X",
+      "مقاومة ماء IP68",
+      "قلم S-Pen مرفق",
+      "معالج Snapdragon 8 Gen 2"
+    ],
+    "specs": {
+      "screen": "14.6 بوصة AMOLED",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "mainCamera": "13MP + 8MP",
+      "frontCamera": "12MP + 12MP",
+      "battery": "11200mAh",
+      "os": "Android 13",
+      "connectivity": "5G/Wi-Fi"
+    },
+    "rating": 4.8,
+    "reviewsCount": 150,
+    "category": "Tablets",
+    "brand": "Samsung",
+    "color": "Graphite"
+  },
+  {
+    "id": 13,
+    "name": "iPad Air (5th Gen)",
+    "price": 600,
+    "oldPrice": 700,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&q=80"
+    ],
+    "shortDescription": "Apple iPad Air 5th Gen M1 - 64GB",
+    "description": [
+      "توازن مثالي بين السعر والأداء القوي بفضل شريحة M1.",
+      "تصميم نحيف بألوان رائعة."
+    ],
+    "features": [
+      "معالج Apple M1",
+      "Center Stage للكاميرا",
+      "دعم Magic Keyboard",
+      "بصمة إصبع في الزر العلوي"
+    ],
+    "specs": {
+      "screen": "10.9 بوصة Liquid Retina",
+      "processor": "Apple M1",
+      "ram": "8GB",
+      "storage": "64GB",
+      "mainCamera": "12MP",
+      "frontCamera": "12MP",
+      "battery": "7600mAh",
+      "os": "iPadOS 15",
+      "connectivity": "Wi-Fi"
+    },
+    "rating": 4.7,
+    "reviewsCount": 210,
+    "category": "Tablets",
+    "brand": "Apple",
+    "color": "Purple"
+  },
+  {
+    "id": 14,
+    "name": "Microsoft Surface Pro 9",
+    "price": 950,
+    "oldPrice": 1100,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&q=80"
+    ],
+    "shortDescription": "Surface Pro 9 (Intel i5, 8GB RAM, 256GB SSD)",
+    "description": [
+      "جهاز تابلت يعمل بنظام ويندوز المتكامل، يجمع بين قوة اللابتوب ومرونة التابلت."
+    ],
+    "features": [
+      "نظام Windows 11 كامل",
+      "مسند خلفي مدمج",
+      "دعم قلم Surface Slim Pen",
+      "وزن خفيف جداً"
+    ],
+    "specs": {
+      "screen": "13 بوصة PixelSense",
+      "processor": "Intel Core i5 (12th Gen)",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "mainCamera": "10MP",
+      "frontCamera": "5MP 1080p",
+      "battery": "47.7Wh",
+      "os": "Windows 11",
+      "connectivity": "Wi-Fi 6E"
+    },
+    "rating": 4.5,
+    "reviewsCount": 85,
+    "category": "Tablets",
+    "brand": "Microsoft",
+    "color": "Sapphire"
+  },
+  {
+    "id": 15,
+    "name": "Xiaomi Pad 6",
+    "price": 350,
+    "oldPrice": 450,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&q=80"
+    ],
+    "shortDescription": "Xiaomi Pad 6 (8GB | 256GB) 144Hz",
+    "description": [
+      "تابلت بمواصفات ممتازة وسعر منافس جداً، شاشة رائعة للأفلام والألعاب."
+    ],
+    "features": [
+      "شاشة 144Hz WQHD+",
+      "معالج قوي للألعاب",
+      "هيكل معدني بالكامل",
+      "شحن سريع 33W"
+    ],
+    "specs": {
+      "screen": "11 بوصة IPS LCD",
+      "processor": "Snapdragon 870",
+      "ram": "8GB",
+      "storage": "256GB",
+      "mainCamera": "13MP",
+      "frontCamera": "8MP",
+      "battery": "8840mAh",
+      "os": "MIUI for Pad",
+      "connectivity": "Wi-Fi"
+    },
+    "rating": 4.6,
+    "reviewsCount": 120,
+    "category": "Tablets",
+    "brand": "Xiaomi",
+    "color": "Gold"
+  },
+  {
+    "id": 16,
+    "name": "Samsung Galaxy Tab A8",
+    "price": 200,
+    "oldPrice": 250,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80"
+    ],
+    "shortDescription": "Samsung Galaxy Tab A8 10.5 (4GB | 64GB)",
+    "description": [
+      "تابلت اقتصادي للعائلات والطلاب، مناسب جداً لمشاهدة المحتوى والدراسة."
+    ],
+    "features": [
+      "سماعات Dolby Atmos رباعية",
+      "وضع الأطفال Samsung Kids",
+      "سعر اقتصادي",
+      "تصميم نحيف"
+    ],
+    "specs": {
+      "screen": "10.5 بوصة LCD",
+      "processor": "Unisoc Tiger T618",
+      "ram": "4GB",
+      "storage": "64GB",
+      "mainCamera": "8MP",
+      "frontCamera": "5MP",
+      "battery": "7040mAh",
+      "os": "Android 11",
+      "connectivity": "Wi-Fi"
+    },
+    "rating": 4.3,
+    "reviewsCount": 95,
+    "category": "Tablets",
+    "brand": "Samsung",
+    "color": "Silver"
+  },
+  {
+    "id": 17,
+    "name": "Lenovo Tab P11 Gen 2",
+    "price": 300,
+    "oldPrice": 380,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1527690146636-bdf1f88ebb45?w=500&q=80"
+    ],
+    "shortDescription": "Lenovo Tab P11 (6GB | 128GB)",
+    "description": [
+      "تابلت متوازن يقدم تجربة ترفيهية ممتازة بفضل الشاشة الكبيرة ونظام الصوت."
+    ],
+    "features": [
+      "شاشة 2K",
+      "دعم لوحة مفاتيح وقلم",
+      "وضع القراءة المريح",
+      "بطارية تدوم طويلاً"
+    ],
+    "specs": {
+      "screen": "11.5 بوصة LCD 120Hz",
+      "processor": "MediaTek Helio G99",
+      "ram": "6GB",
+      "storage": "128GB",
+      "mainCamera": "13MP",
+      "frontCamera": "8MP",
+      "battery": "7700mAh",
+      "os": "Android 12",
+      "connectivity": "Wi-Fi"
+    },
+    "rating": 4.4,
+    "reviewsCount": 40,
+    "category": "Tablets",
+    "brand": "Lenovo",
+    "color": "Grey"
+  },
+  {
+    "id": 18,
+    "name": "iPad Mini (6th Gen)",
+    "price": 500,
+    "oldPrice": 550,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&q=80"
+    ],
+    "shortDescription": "Apple iPad Mini 6th Gen 64GB",
+    "description": [
+      "القوة في حجم صغير. تابلت يمكن حمله بيد واحدة مع أداء مذهل."
+    ],
+    "features": [
+      "حجم صغير جداً",
+      "معالج A15 Bionic",
+      "دعم Apple Pencil 2",
+      "منفذ USB-C"
+    ],
+    "specs": {
+      "screen": "8.3 بوصة Liquid Retina",
+      "processor": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "64GB",
+      "mainCamera": "12MP",
+      "frontCamera": "12MP Ultra Wide",
+      "battery": "5124mAh",
+      "os": "iPadOS 15",
+      "connectivity": "Wi-Fi"
+    },
+    "rating": 4.8,
+    "reviewsCount": 180,
+    "category": "Tablets",
+    "brand": "Apple",
+    "color": "Pink"
+  },
+  {
+    "id": 19,
+    "name": "Huawei MatePad 11.5",
+    "price": 280,
+    "oldPrice": 350,
+    "inStock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=500&q=80"
+    ],
+    "shortDescription": "Huawei MatePad 11.5 (6GB | 128GB)",
+    "description": [
+      "تصميم معدني قطعة واحدة مع شاشة سريعة وتجربة مكتبية جيدة."
+    ],
+    "features": [
+      "شاشة 120Hz",
+      "هيكل معدني",
+      "تطبيق ملاحظات متطور",
+      "سماعات محيطية"
+    ],
+    "specs": {
+      "screen": "11.5 بوصة 120Hz",
+      "processor": "Snapdragon 7 Gen 1",
+      "ram": "6GB",
+      "storage": "128GB",
+      "mainCamera": "13MP",
+      "frontCamera": "8MP",
+      "battery": "7700mAh",
+      "os": "HarmonyOS 3.1",
+      "connectivity": "Wi-Fi"
+    },
+    "rating": 4.2,
+    "reviewsCount": 35,
+    "category": "Tablets",
+    "brand": "Huawei",
+    "color": "Silver"
+  },
+  {
+    "id": 20,
+    "name": "Amazon Fire HD 10",
+    "price": 140,
+    "oldPrice": 190,
+    "inStock": false,
+    "images": [
+      "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=500&q=80"
+    ],
+    "shortDescription": "Amazon Fire HD 10 Tablet (32GB)",
+    "description": [
+      "أفضل قيمة مقابل السعر للقراءة ومشاهدة الأفلام البسيطة."
+    ],
+    "features": [
+      "تكامل مع خدمات أمازون",
+      "عمر بطارية طويل",
+      "سعر لا يقاوم",
+      "متين جداً"
+    ],
+    "specs": {
+      "screen": "10.1 بوصة Full HD",
+      "processor": "Octa-core 2.0GHz",
+      "ram": "3GB",
+      "storage": "32GB",
+      "mainCamera": "5MP",
+      "frontCamera": "2MP",
+      "battery": "6300mAh",
+      "os": "Fire OS",
+      "connectivity": "Wi-Fi"
+    },
+    "rating": 4.1,
+    "reviewsCount": 500,
+    "category": "Tablets",
+    "brand": "Amazon",
+    "color": "Black"
+  }
+  ]
+}
+

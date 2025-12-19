@@ -1,0 +1,116 @@
+/* ================= Top Header ================= */
+.top_header a {
+  color: var(--primary-color);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.separator {
+  color: #ccc;
+  font-size: 12px;
+}
+
+/* ================= Search ================= */
+.search-box {
+  max-width: 600px;
+}
+
+.search-box .input-group {
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.search-box .form-control {
+  border-left: 0;
+  background: #f3f9fb;
+  font-size: 13px;
+}
+
+.search-box .input-group-text {
+  background: #f3f9fb;
+  border-right: 0;
+}
+
+.search-box input:focus {
+  box-shadow: none;
+  border-color: var(--primary-color);
+}
+
+.search-box input::placeholder {
+  font-size: 12px;
+  color: #999;
+}
+
+/* ================= Cart Badge ================= */
+.cart-badge {
+  position: absolute;
+  top: -4px;
+  right: -6px;
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+
+/* ================= Categories ================= */
+.nav_links {
+  overflow: auto;
+}
+
+.nav-link-btn {
+  background: #f3f9fb;
+  border: none;
+  padding: 6px 14px;
+  font-size: 13px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.nav-link-btn i {
+  font-size: 11px;
+  color: var(--primary-color);
+}
+
+.nav-link-btn:hover {
+  background: var(--primary-color);
+  color: #fff;
+}
+
+.nav-link-btn:hover i {
+  color: #fff;
+}
+
+/* ================= Mobile Tweaks ================= */
+@media (max-width: 576px) {
+  .navbar-brand {
+    font-size: 18px;
+  }
+
+  .cart-badge {
+    top: -6px;
+    right: -8px;
+  }
+  .top_header .left-text {
+    display: none;
+  }
+  .navbar .btn {
+    font-size: 14px;
+  }
+
+  .cart-badge {
+    top: -6px;
+    right: -8px;
+  }
+}
+
+@media (max-width: 500px) {
+    .search-container {
+        order: 3;
+    }
+}

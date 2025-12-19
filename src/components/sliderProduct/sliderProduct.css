@@ -1,0 +1,5 @@
+.top_slide h5 {
+    border-bottom: 3px solid var(--primary-color);
+    width: fit-content;
+    padding-bottom: 10px;
+}
